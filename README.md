@@ -53,8 +53,8 @@ O **EDR** é uma tecnologia de segurança focada em:
 - [Kaspersky - EDR vs. Antivírus](https://www.kaspersky.com.br/blog/edr-vs-antivirus/)  
 
 ### Inglês  
-- Gartner: "Market Guide for EDR Solutions" ([link](https://www.gartner.com/))
-- NIST Cybersecurity Framework ([link](https://www.nist.gov/cyberframework))
+- [Gartner: "Market Guide for EDR Solutions"](https://www.gartner.com/)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [MITRE ATT&CK - EDR Mitigations](https://attack.mitre.org/mitigations/enterprise/)  
 - [CrowdStrike - Why EDR is Essential](https://www.crowdstrike.com/blog/why-edr-is-essential/)  
 ---
