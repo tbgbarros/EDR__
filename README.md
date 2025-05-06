@@ -2,6 +2,12 @@
 
 Este repositório contém um estudo comparativo entre **EDR (Endpoint Detection and Response)** e **antivírus tradicional**, abordando diferenças, vantagens e cenários de uso. O objetivo é explicar por que soluções modernas de segurança como o EDR são essenciais contra ameaças cibernéticas avançadas.
 
+
+---
+Documentação ultilizada em link abaixo e mais anexos.
+[Acronis Cyber Protect Cloud](https://www.gartner.com/](https://dl.managed-protection.com/u/baas/help/25.04/user/pt-BR/index.html))
+
+
 ---
 
 ## 📌 **Sumário**
