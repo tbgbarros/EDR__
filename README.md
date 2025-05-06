@@ -5,7 +5,7 @@ Este repositório contém um estudo comparativo entre **EDR (Endpoint Detection 
 
 ---
 Documentação ultilizada em link abaixo e mais anexos.
-[Acronis Cyber Protect Cloud](https://www.gartner.com/](https://dl.managed-protection.com/u/baas/help/25.04/user/pt-BR/index.html))
+[Acronis Cyber Protect Cloud](https://dl.managed-protection.com/u/baas/help/25.04/user/pt-BR/index.html)
 
 
 ---
